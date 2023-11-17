@@ -1,2 +1,2 @@
 # Graduation-Success-Predictor
-This repository hosts a machine learning project aimed at predicting student graduation outcomes using decision trees.
+This repository hosts a machine learning project aimed at predicting student graduation outcomes using decision trees. Developed as a lab exercise, it employs the "Predict students dropout and academic success" dataset, simplifying outputs to 'Graduate' and 'Dropout'. The project showcases the implementation and analysis of decision trees to understand and predict academic success.
